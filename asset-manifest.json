@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diet-plan-gen/static/css/main.87f88c50.chunk.css",
+    "main.js": "/diet-plan-gen/static/js/main.a275be9e.chunk.js",
+    "main.js.map": "/diet-plan-gen/static/js/main.a275be9e.chunk.js.map",
+    "runtime-main.js": "/diet-plan-gen/static/js/runtime-main.3e5d2f12.js",
+    "runtime-main.js.map": "/diet-plan-gen/static/js/runtime-main.3e5d2f12.js.map",
+    "static/js/2.dd0681eb.chunk.js": "/diet-plan-gen/static/js/2.dd0681eb.chunk.js",
+    "static/js/2.dd0681eb.chunk.js.map": "/diet-plan-gen/static/js/2.dd0681eb.chunk.js.map",
+    "static/js/3.4acb1941.chunk.js": "/diet-plan-gen/static/js/3.4acb1941.chunk.js",
+    "static/js/3.4acb1941.chunk.js.map": "/diet-plan-gen/static/js/3.4acb1941.chunk.js.map",
+    "index.html": "/diet-plan-gen/index.html",
+    "static/css/main.87f88c50.chunk.css.map": "/diet-plan-gen/static/css/main.87f88c50.chunk.css.map",
+    "static/js/2.dd0681eb.chunk.js.LICENSE.txt": "/diet-plan-gen/static/js/2.dd0681eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e5d2f12.js",
+    "static/js/2.dd0681eb.chunk.js",
+    "static/css/main.87f88c50.chunk.css",
+    "static/js/main.a275be9e.chunk.js"
+  ]
+}
