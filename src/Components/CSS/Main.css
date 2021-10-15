@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins';
+}
+
+
+#user-data-container {
+    position: relative;
+    left: 43%;
+    width: fit-content;
+}
+
+#bmi {
+    position: relative;
+    left: 20%;
+    text-align: center;
+    align-items: center;
+}

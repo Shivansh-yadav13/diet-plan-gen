@@ -1,0 +1,69 @@
+[
+    {
+        "type": "overweight",
+        "items_suggested": [
+            "Whole grains (whole wheat, steel cut oats, brown rice, quinoa)",
+            "Vegetables (a colorful variety-not potatoes)",
+            "Whole fruits (not fruit juices)",
+            "Nuts, seeds, beans, and other healthful sources of protein (fish and poultry)",
+            "Plant oils (olive and other vegetable oils)"
+        ],
+        "items_avoid": [
+            "Sugar-sweetened beverages (soda, fruit drinks, sports drinks)",
+            "Fruit juice (no more than a small amount per day)",
+            "Refined grains(white bread, white rice, white pasta) and sweets",
+            "Potatoes (baked or fried)",
+            "Red meat (beef, pork, lamb) and processed meats (salami, ham, bacon, sausage)",
+            "Other highly processed foods, such as fast food"
+        ],
+        "tips" : "At least 1 hour a day of moderate to vigorous physical activity each day, which can be pieced together from short bursts of 10 minutes or more."
+    },
+    {
+        "type": "underweight",
+        "items_suggested": [
+            "Lean Red Meat: Steak contains a ton of protein and iron. Red meat is high in cholesterol, so most food professionals don’t recommend it as part of a healthy diet more than a few times per week.",
+            "Real Nut Butters: Natural peanut butter is packed with protein and fats, making it a great choice for people trying to gain weight the healthy way. One tablespoon contains around 100 calories and has 4 grams of protein.",
+            "Whole Fat Milk: Dietitians say that one simple substitution you can make when trying to gain weight is swapping your skim milk for whole milk. It’s only 60 calories more a glass as the fat is left in.",
+            "Tropical Fruit: Fruits like mango, papaya, bananas, and pineapple are amazing choices according to food experts. They are full of natural sugars and can give you great energy.",
+            "Avocado: These delicious green vegetables are an excellent way to add heart-healthy fats to your diet. One half of an avocado contains 140 calories, but also contain high levels of potassium, folic acid, and vitamin E.",
+            "Natural Granola: Natural granola with no added refined sugar is a great cereal to enjoy if you are trying to gain weight. This tasty snack is made from rolled oats, sugar, and healthy fats (like nuts and coconut oil). More dried fruit and nuts can also be added.",
+            "Whole Wheat Bread: Nutritionists say that eating healthy bread products is a great way to start gaining weight. If you’re adding bread to your diet, look for whole grains. Nuts: Nuts are a great snack for gaining weight. They are full of fat and nutrients, but also contain a great deal of fiber. Eating only a handful of nuts can keep you full for hours. Not all nuts are equal for fiber though.",
+            "Cheese: Try goat cheese with eggs, Swiss with roasted chicken, and Parmesan on top of asparagus. On its own, cheese also makes a great snack because it’s high in protein."
+        ],
+        "items_avoid": [
+            "Whole Eggs. Once feared for being high in cholesterol, whole eggs have been making a comeback.",
+            "Leafy Greens.",
+            "Salmon.",
+            "Cruciferous Vegetables.",
+            "Lean Beef and Chicken Breast",
+            "Boiled Potatoes.",
+            "Tuna.",
+            "Beans and Legumes."
+        ]
+    },
+    {
+        "type": "healthy",
+        "items_suggested": [
+            "The pace at which you eat influences how much you eat, as well as how likely you are to gain weight.",
+            "Choose whole grain bread instead of refined",
+            "Add Greek yogurt to your diet",
+            "Eat eggs, preferably for breakfast",
+            "Increase your protein intake",
+            "Drink enough water",
+            "Bake or roast instead of grilling or frying",
+            "Replace your favorite fast food restaurant",
+            "Try at least one new healthy recipe per week"
+        ],
+        "items_avoid": [
+            "Sugary drinks",
+            "Most pizzas",
+            "White bread",
+            "Most fruit juices",
+            "Sweetened breakfast cereals",
+            "Fried, grilled, or broiled food",
+            "Pastries, cookies, and cakes",
+            "French fries and potato chips",
+            "Gluten-free junk foods"
+        ]
+    }
+]
